@@ -1,0 +1,22 @@
+DAY 1 – JavaScript Essentials
+Topics to Cover
+ES6: let, const, arrow functions
+
+
+Arrays, objects
+
+
+map, filter, reduce
+
+
+Callbacks, Promises, async/await
+
+
+Daily Tasks
+Practice 10 array problems
+
+Build a console-based To-Do app
+
+
+
+
